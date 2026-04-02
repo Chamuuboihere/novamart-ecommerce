@@ -22,7 +22,7 @@ export const products = [
   // --- STREETWEAR ---
   { id: 4, name: "Cyberpunk Jacket", category: "Streetwear", price: "$899", description: "Next generation cyberpunk aesthetic wearable. Premium leather.", img: "/products/cyberpunk-jacket.png", rating: 5.0, reviews: 42 },
   { id: 401, name: "Urban Fleece Hoodie", category: "Streetwear", price: "$120", description: "Heavyweight drop-shoulder fleece hoodie for ultimate comfort.", img: "/products/urban-fleece-hoodie.png", rating: 4.8, reviews: 512 },
-  { id: 402, name: "Reflective Cargo Pants", category: "Streetwear", price: "$145", description: "Tech-wear infused cargo pants with 3M reflective trims.", img: "https://images.unsplash.com/photo-1517438476312-10d91c4ce756?w=800&q=80", rating: 4.5, reviews: 93 },
+  { id: 402, name: "Reflective Cargo Pants", category: "Streetwear", price: "$145", description: "Tech-wear infused cargo pants with 3M reflective trims.", img: "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800&q=80", rating: 4.5, reviews: 93 },
   { id: 403, name: "Graphic T-Shirt Box Fit", category: "Streetwear", price: "$65", description: "Premium combed cotton printed with high-density graphics.", img: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80", rating: 4.7, reviews: 156 },
 
   // --- ELECTRONICS / MISC ---
